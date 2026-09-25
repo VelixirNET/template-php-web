@@ -1,0 +1,15 @@
+{
+  "name": "PHP",
+  "tagline": "PHP 8.4 behind nginx and FPM.",
+  "description": "An index.php served by nginx with PHP-FPM in front of it, provisioned for you. No pool file, no server block, no opcache tuning to write.",
+  "language": "Php",
+  "runtimeVersion": "8.4",
+  "accent": "#777BB4",
+  "tags": [
+    "nginx + FPM",
+    "No config"
+  ],
+  "topics": [
+    "php"
+  ]
+}
