@@ -1,0 +1,8 @@
+{
+  "name": "velixir/php-starter",
+  "description": "A starter PHP app on velixir.",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.2"
+  }
+}
